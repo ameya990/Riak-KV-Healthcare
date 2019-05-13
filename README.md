@@ -8,14 +8,14 @@ NOTE: It is recommended to start the ".rp" file from the "Patient Login" page.
   Password : abc123
   
   The recommended order to navigate and populate the pages in one mock session is :
-  Patient Login -> 
-  -> Patient Info -> (populate, submit and sign out) -> switch to Doctor Login -> 
-  -> Doctor View -> (populate, submit and sign out) -> switch to Pharmacist Login ->
-  -> Pharmacist View -> (populate, submit and sign out) -> switch to Doctor Login ->
-  -> Inspect Doctor View form without submitting any further changes ->
-  -> (sign out from Doctor View) -> switch to Patient Login ->
-  -> Inspect Patient Info form without submitting any further changes -> 
-  -> (sign out from Patient Info) 
+   Patient Login -> 
+   Patient Info -> (populate, submit and sign out) -> switch to Doctor Login -> 
+   Doctor View -> (populate, submit and sign out) -> switch to Pharmacist Login ->
+   Pharmacist View -> (populate, submit and sign out) -> switch to Doctor Login ->
+   Inspect Doctor View form without submitting any further changes ->
+   (sign out from Doctor View) -> switch to Patient Login ->
+   Inspect Patient Info form without submitting any further changes -> 
+   (sign out from Patient Info) 
 
 IMPORTANT:
 I have replaced my earlier code - temporarily - with an Axure RP interactive prototype file. You will need to install Axure RP in your machine to get the ".rp" file up and running. 
